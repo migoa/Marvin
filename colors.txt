@@ -1,5 +1,6 @@
 #colors
 
+mn: 	    #000000
 black:      #0c0d0e
 white:      #ffffff
 
