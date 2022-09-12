@@ -18,7 +18,7 @@ An attempt on [Darwin's](https://github.com/42stones/Darwin) theme.
 
 ### I wonder if this extension is compatible with VsCode because it and Codium use the same binaries but without the telemetry and the 0 b*****s title on my name. 
 
-### Gotta make the logo of Mr. Marvin better because it's crudely cropped from an easily google-able image.
+### Gotta make the logo of Mr. Marvin better because it's just a crudely cropped image that is easily google-able.  
 
 ### ⣐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ### ⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

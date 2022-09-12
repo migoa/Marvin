@@ -1,13 +1,13 @@
 {
-	"name": "darwin",
-	"displayName": "Darwin",
-	"description": "A dark theme designed to fit to a black screen.",
-	"version": "1.5",
-	"author": "Chris K Seidel",
+	"name": "marvin",
+	"displayName": "Marvin",
+	"description": "Theme that removes the magenta.",
+	"version": ".01",
+	"author": "Ems R Rudas",
 	"category": "Theme",
-	"publisher": "chriskseidel",
+	"publisher": "emsrrudas",
 	"icon": "icon.png",
-	"repository": "https://chriskseidel.visualstudio.com/_git/Darwin",
+	"repository": "https://github.com/Smotherly/Marvin",
 	"engines": {
 		"vscode": "^1.17.0"
 	},
@@ -17,15 +17,15 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Darwin",
+				"label": "Marvin",
 				"uiTheme": "vs-dark",
-				"path": "./themes/darwin.json"
+				"path": "./themes/marvin.json"
 			}
 		]
 	},
 	"__metadata": {
 		"id": "204e8a58-7449-4eec-924d-1396cce9f110",
-		"publisherDisplayName": "Chris K. Seidel",
+		"publisherDisplayName": "Ems R. Rudas",
 		"publisherId": "09171650-54b0-40ac-b31f-e4c5a4aae598"
 	},
 	"dependencies": {
