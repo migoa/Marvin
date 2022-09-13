@@ -1,34 +1,21 @@
 {
-	"name": "marvin",
-	"displayName": "Marvin",
-	"description": "Theme that removes the magenta.",
-	"version": ".01",
-	"author": "Ems R Rudas",
-	"category": "Theme",
-	"publisher": "emsrrudas",
-	"icon": "icon.png",
-	"repository": "https://github.com/Smotherly/Marvin",
-	"engines": {
-		"vscode": "^1.17.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Marvin",
-				"uiTheme": "vs-dark",
-				"path": "./themes/marvin.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "204e8a58-7449-4eec-924d-1396cce9f110",
-		"publisherDisplayName": "Ems R. Rudas",
-		"publisherId": "09171650-54b0-40ac-b31f-e4c5a4aae598"
-	},
-	"dependencies": {
-		"vsce": "^1.0.0"
-	}
+  "name": "marvin",
+  "displayName": "Marvin",
+  "description": "I finally got the magenta out.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "marvin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/marvin-color-theme.json"
+      }
+    ]
+  }
 }
