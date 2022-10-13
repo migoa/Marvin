@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,23 +10,23 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#000</string>
 				<key>caret</key>
 				<string>#f8f8f0</string>
 				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#fff</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#121005</string>
+				<string>#333</string>
 				<key>selection</key>
-				<string>#121005</string>
+				<string>#333</string>
 				<key>findHighlight</key>
 				<string>#effb7b</string>
 				<key>findHighlightForeground</key>
-				<string>#000000</string>
+				<string>#000</string>
 				<key>selectionBorder</key>
-				<string>#121005</string>
+				<string>#333</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 				<key>bracketsForeground</key>
@@ -50,7 +49,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#313131</string>
+				<string>#222</string>
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -144,7 +143,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#bf8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -209,7 +208,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#05ad2f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -408,7 +407,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F83333</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -419,7 +418,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EEEEEE</string>
+				<string>#EEE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -511,13 +510,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.dracula</string>
-	<key>author</key>
-	<string>Zeno Rocha</string>
-</dict>
-</plist>
+	<key>uuid</key><string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
+	<key>colorSpaceName</key><string>sRGB</string><key>semanticClass</key><string>theme.dark.marvin</string><key>author</key><string>Ems Rudas</string></dict></plist>
