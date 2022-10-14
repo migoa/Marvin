@@ -62,7 +62,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1fa8c</string>
+				<string>#ffd1b3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -95,7 +95,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bd93f9</string>
+				<string>#00b3b3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,19 +107,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby's @variable</string>
-			<key>scope</key>
-			<string>variable.other.readwrite.instance</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#ffb86c</string>
+				<string>#f6f</string> // Thing literally does nothing and this is just a random color
 			</dict>
 		</dict>
 		<dict>
