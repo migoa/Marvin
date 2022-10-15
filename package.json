@@ -1,15 +1,10 @@
-{
-  "name": "marvin",
-  "displayName": "marvin",
-  "description": "Darwin to Dracula W T H?!?!?",
-  "version": "0.0.1",
+{"name":"marvin","description":"Darwin to Dracula W T H?!?!?","version":"0.0.1",
+
+"repository":{"type":"git","url":"https://github.com/Smotherly/Marvin"},
   "engines": {
-    "vscode": "^1.72.2"
-  },
-  "icon": "i.png",
-  "categories": [
-    "Themes"
-  ],
+    "vscode": "^1.72.0"
+  },"icon":"i.png","categories":["Themes"],
+
   "contributes": {
     "themes": [
       {
@@ -18,5 +13,4 @@
         "path": "./themes/marvin-color-theme.json"
       }
     ]
-  }
-}
+  },"keywords": ["marvin","darwin","themes","dark","abyss"]}
