@@ -20,8 +20,6 @@
 				<string>#effb7b</string>
 				<key>findHighlightForeground</key>
 				<key>selectionBorder</key>
-				<key>activeGuide</key>
-				<string>#9D550FB0</string>
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
@@ -158,19 +156,9 @@
 				<string>#50fa7b</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function name</string>
-			<key>scope</key>
-			<string>entity.name.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#05ad2f</string>
-			</dict>
-		</dict>
+
+<dict><key>name</key><string>Function name</string><key>scope</key><string>entity.name.function</string><key>settings</key><dict><key>foreground</key><string>#05ad2f</string></dict></dict>
+
 		<dict>
 			<key>name</key>
 			<string>Function argument</string>
@@ -457,4 +445,4 @@
 		</dict>
 	</array>
 	<key>uuid</key><string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
-	<key>colorSpaceName</key><string>sRGB</string><key>semanticClass</key><string>theme.dark.marvin</string></dict></plist>
+<key>colorSpaceName</key><string>sRGB</string><key>semanticClass</key><string>theme.dark.marvin</string></dict></plist>
