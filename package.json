@@ -1,4 +1,4 @@
-{"name":"marvin","description":"Theme","version":"0.5","repository":{"type":"git","url":"https://github.com/Smotherly/Marvin"},
+{"name":"marvin","description":"Theme","version":"0.0.8","repository":{"type":"git","url":"https://github.com/Smotherly/Marvin"},
   "engines": {
     "vscode": "^1.72.0"
   },"icon":"i.png","categories":["Themes"],
