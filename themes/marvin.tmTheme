@@ -38,7 +38,6 @@
 			</dict>
 		</dict>
 <dict><key>name</key><string>Comment</string><key>scope</key><string>comment</string><key>settings</key><dict><key>foreground</key><string>#222</string></dict></dict><dict><key>name</key><string>String</string><key>scope</key><string>string</string><key>settings</key><dict><key>foreground</key><string>#0f0</string></dict></dict>
-
 		<dict>
 			<key>name</key>
 			<string>Number</string>
@@ -161,9 +160,7 @@
 				<string>#50fa7b</string>
 			</dict>
 		</dict>
-
 <dict><key>name</key><string>Function name</string><key>scope</key><string>entity.name.function</string><key>settings</key><dict><key>foreground</key><string>#05ad2f</string></dict></dict>
-
 		<dict>
 			<key>name</key>
 			<string>Function argument</string>
